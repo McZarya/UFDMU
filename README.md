@@ -15,3 +15,5 @@ Once you have that done, save the file.
 3: Once it has finished installing all the dependencies, you can run start.bat.
 
 ## Note: Like most things you may encounter errors if so report them to McZarya#0001 on discord
+
+I hate the name as much as you do
