@@ -1,0 +1,16 @@
+{
+  "name": "ultra_femboy_discord_mod_uwu",
+  "version": "0.0.0",
+  "description": "Think dad bot but for creepy discord mods desprate to find their kitten",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "McZarya",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node.js": "0.0.1-security",
+    "nodemon": "^1.18.9"
+  }
+}
