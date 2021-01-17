@@ -2,7 +2,7 @@
 
 Like Dad and Mom bot but discord mod themed 
 
-![](Ultra Femboy Discord Mod UwU.png)
+![](UFDMU.png)
 # Change Log
 Made the bot very bare bones just so its working well I make it
 # Install Instructions
